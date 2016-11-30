@@ -1,6 +1,10 @@
-# mithril-spectator
+# Mithril Spectator
 
 A tool to create [Mithril](https://github.com/lhorie/mithril.js/tree/rewrite/) component state snapshots for use as visual regression tests &amp; living style guides
+
+## Status
+
+Conceptual. In Mithril v1's current state, code using the bundled `m` will not run in   
 
 ## The plan
 
